@@ -38,5 +38,4 @@ Here are some download links for Windows and Mac (Linux version will be here soo
 <br>
 # Support me
 If you appreciate this project and want to donate, please donate to this venmo account:
-![Venmo QR Code](https://github.com/user-attachments/assets/b7f46d54-715c-49d0-9a90-ee14f5b4271f)
-<img src="https://github.com/user-attachments/assets/b7f46d54-715c-49d0-9a90-ee14f5b4271f", height=200, width=100>
+<img src="https://github.com/user-attachments/assets/b7f46d54-715c-49d0-9a90-ee14f5b4271f" height=276 width=276>
