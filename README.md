@@ -34,3 +34,9 @@ Here are some download links for Windows and Mac (Linux version will be here soo
 <br><br>
 
 ![Screenshot 2024-02-04 093419](https://github.com/crazycheetah42/YTMassUnsubscriber/assets/76403763/ae71c418-55d5-4b0a-b835-88503861e5e3)
+<br>
+<br>
+# Support me
+If you appreciate this project and want to donate, please donate to this venmo account:
+![Venmo QR Code](https://github.com/user-attachments/assets/b7f46d54-715c-49d0-9a90-ee14f5b4271f)
+<img src="https://github.com/user-attachments/assets/b7f46d54-715c-49d0-9a90-ee14f5b4271f", height=200, width=100>
